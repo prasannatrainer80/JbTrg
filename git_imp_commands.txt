@@ -24,6 +24,10 @@ git diff -> Used to find the difference between old commit (vs) staging
 
 git status -> Need to find out the current status of GitHub repo
 
+The green lines shows that is in staged data
+
+The red lines shows that the code/data not stated yet.
+
 https://github.com/prasannatrainer80/JbTrg
 
 

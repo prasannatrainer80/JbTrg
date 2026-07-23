@@ -56,3 +56,6 @@ To create a branch use command as
 
 git branch branch_name
 
+git branch branch1
+
+git branch branch2

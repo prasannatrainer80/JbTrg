@@ -1,0 +1,21 @@
+How to download files from GitHub repo
+
+git clone 
+
+syntax : 
+
+git clone repo_url
+
+git clone https://github.com/prasannatrainer80/JbTrg
+
+How to add the files to staging area
+
+git add .
+
+How to add the files to local repo
+
+git commit -m "message"
+
+How to add the files to remote repo
+
+git push origin main

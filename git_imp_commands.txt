@@ -19,3 +19,12 @@ git commit -m "message"
 How to add the files to remote repo
 
 git push origin main
+
+git diff -> Used to find the difference between old commit (vs) staging
+
+git status -> Need to find out the current status of GitHub repo
+
+https://github.com/prasannatrainer80/JbTrg
+
+
+

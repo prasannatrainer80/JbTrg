@@ -32,4 +32,22 @@ Then move to the working directory, the proof for this is
 
 it contains (branch) name side to that
 
+To add the code to the staging area 
 
+use command git add
+
+git add .
+
+To add this code to local repo
+
+git commit -m "message"
+
+git commit -m "My First Code Commit"
+
+To add the code to remote repo
+
+git push origin branch_name
+
+as the branch_name is main, then
+
+git push origin main
